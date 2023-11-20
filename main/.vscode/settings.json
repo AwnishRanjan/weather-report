@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\WeatherApp\\mysql-connector-j-8.1.0.jar",
+        "d:\\WeatherApp\\org.json.jar",
+        "c:\\Users\\ranja\\Downloads\\main\\mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\ranja\\Downloads\\main\\org.json.jar",
+        "c:\\Users\\ranja\\Downloads\\APP\\weather report java\\org.json.jar",
+        "c:\\Users\\ranja\\Downloads\\APP\\weather report java\\mysql-connector-j-8.1.0.jar"
+    ]
+}
